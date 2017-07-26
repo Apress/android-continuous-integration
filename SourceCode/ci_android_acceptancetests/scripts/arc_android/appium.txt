@@ -1,0 +1,11 @@
+[caps]
+platformName = "Android"
+deviceName = "Android"
+avd = "Nexus_4_API_23"
+app = ""
+appPackage = "com.android.settings"
+appActivity = ".Settings"
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""

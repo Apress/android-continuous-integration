@@ -1,0 +1,123 @@
+devices:
+  lge-nexus_4-006ea820a10e1281:
+    caps:
+        platformName    : Android
+        deviceName     : lge-nexus_4-006ea820a10e1283
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+  lge-nexus_5-066acc3d0ac5b4ed:
+    caps:
+        platformName    : Android
+        deviceName     : lge-nexus_5-066acc3d0ac5b4ed
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+            port: 4702
+  samsung-sm_n900t-34634a1c:
+    caps:
+        platformName    : Android
+        deviceName     : samsung-sm_n900t-34634a1c
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+            port: 4712
+  lge-nexus_5-06511886344ba98a:
+    caps:
+        platformName    : Android
+        deviceName     : lge-nexus_5-06511886344ba98a
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+            port: 4724
+  htc-one-HT36SW913846:
+    caps:
+        platformName    : Android
+        deviceName     : htc-one-HT36SW913846
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+            port: 4735
+  samsung-4d00baed4bdb31b1:
+    caps:
+        platformName    : Android
+        deviceName     : samsung-4d00baed4bdb31b1
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+            port: 4746
+  lge-nexus_4-00a219ae09d05912:
+    caps:
+        platformName    : Android
+        deviceName     : lge-nexus_4-00a219ae09d05912
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+            port: 4757
+  huawei-nexus_6p-84B5T15A17000142:
+    caps:
+        platformName    : Android
+        deviceName     : huawei-nexus_6p-84B5T15A17000142
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+            port: 4768
+  motorola-google-ZX1B222FCD:
+    caps:
+        platformName    : Android
+        deviceName     : motorola-google-ZX1B222FCD
+        app: app-debug.apk
+        appActivity       : .Settings
+        appPackage        : com.android.settings
+    appium_lib:
+            sauce_username:
+            sauce_access_key:
+            port: 4778
+  saucelabs_samsung_galaxy_s5:
+    caps:
+        platformName    : Android
+        platformVersion : '4.4'
+        deviceName     : 'Samsung Galaxy S5 Device'
+        app: http://saucelabs.com/example_files/ContactManager.apk
+        appActivity       : .ContactManager
+        appPackage        : com.example.android.contactmanager
+        appium-version : "1.4.16"
+    appium_lib:
+            sauce_username: <replace_with_username>
+            sauce_access_key: 0956c4a2-f696-4ffb-a4b0-ab14f54a3e59
+  saucelabs_samsung_galaxy_s4:
+    caps:
+        platformName    : Android
+        platformVersion : '4.4'
+        deviceName     : 'Samsung Galaxy S4 Device'
+        app: http://saucelabs.com/example_files/ContactManager.apk
+        appActivity       : .ContactManager
+        appPackage        : com.example.android.contactmanager
+        appium-version : "1.4.16"
+    appium_lib:
+            sauce_username: <replace_with_username>
+            sauce_access_key: 0956c4a2-f696-4ffb-a4b0-ab14f54a3e59
